@@ -39,11 +39,16 @@ ul {
   }
   
   
-  .carousel-indicators{
+.carousel-indicators{
       
       float: left;
   
-  }
+}
+
+#grid{
+  padding-right: 0px;
+  padding-left: 0px;
+}
 
   /* For split home page */
 
